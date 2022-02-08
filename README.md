@@ -51,7 +51,7 @@ sudo yum install --nogpgcheck shiny-server-1.5.17.973-x86_64.rpm
 
 <a> https://www.rstudio.com/products/shiny/download-server/redhat-centos/ </a> 
 
-<b> Step 7 : </b> Creted directory 
+<b> Step 7 : </b> Created directory 
 
 Created directory to save work for rstudio-server in /home/user/
 <i> mkdir  shiny-app </i> 
@@ -101,16 +101,4 @@ git clone https://github.com/____________.git
 
 ip:3838/shiny-apps/<folder where app.R file is saved>
 <i>
-
-
-
-
-
-
-
-
-
-
-
-
 
